@@ -1,0 +1,146 @@
+[
+    {
+        "Country": "Japan",
+        "Slug": "japan"
+    },
+    {
+        "Country": "Austria",
+        "Slug": "austria"
+    },
+    {
+        "Country": "Belgium",
+        "Slug": "belgium"
+    },
+    {
+        "Country": "Bulgaria",
+        "Slug": "bulgaria"
+    },
+    {
+        "Country": "Croatia",
+        "Slug": "croatia"
+    },
+    {
+        "Country": "Czech Republic",
+        "Slug": "czech-republic"
+    },
+    {
+        "Country": "Denmark",
+        "Slug": "denmark"
+    },
+    {
+        "Country": "Estonia",
+        "Slug": "estonia"
+    },
+    {
+        "Country": "Finland",
+        "Slug": "finland"
+    },
+    {
+        "Country": "France",
+        "Slug": "france"
+    },
+    {
+        "Country": "Germany",
+        "Slug": "germany"
+    },
+    {
+        "Country": "Greece",
+        "Slug": "greece"
+    },
+    {
+        "Country": "Hungary",
+        "Slug": "hungary"
+    },
+    {
+        "Country": "Ireland",
+        "Slug": "ireland"
+    },
+    {
+        "Country": "Italy",
+        "Slug": "italy"
+    },
+    {
+        "Country": "Latvia",
+        "Slug": "latvia"
+    },
+    {
+        "Country": "Lithuania",
+        "Slug": "lithuania"
+    },
+    {
+        "Country": "Luxembourg",
+        "Slug": "luxembourg"
+    },
+    {
+        "Country": "Netherlands",
+        "Slug": "netherlands"
+    },
+    {
+        "Country": "Poland",
+        "Slug": "poland"
+    },
+    {
+        "Country": "Portugal",
+        "Slug": "portugal"
+    },
+    {
+        "Country": "Spain",
+        "Slug": "spain"
+    },
+    {
+        "Country": "Sweden",
+        "Slug": "sweden"
+    },
+    {
+        "Country": "United Kingdom",
+        "Slug": "united-kingdom"
+    },
+    {
+        "Country": "Switzerland",
+        "Slug": "switzerland"
+    },
+    {
+        "Country": "Canada",
+        "Slug": "canada"
+    },
+    {
+        "Country": "Brazil",
+        "Slug": "brazil"
+    },
+      {
+        "Country": "India",
+        "Slug": "india"
+    },
+    {
+        "Country": "Philippines",
+        "Slug": "philippines"
+    },
+    {
+        "Country": "Singapore",
+        "Slug": "singapore"
+    },
+    {
+        "Country": "Korea (South)",
+        "Slug": "korea-south"
+    },
+    {
+        "Country": "Indonesia",
+        "Slug": "indonesia"
+    },
+    {
+        "Country": "Viet Nam",
+        "Slug": "vietnam"
+    },
+    {
+        "Country": "Thailand",
+        "Slug": "thailand"
+    },
+    {
+        "Country": "China",
+        "Slug": "china"
+    },
+    {
+        "Country": "Malaysia",
+        "Slug": "malaysia"
+    }
+  ]
