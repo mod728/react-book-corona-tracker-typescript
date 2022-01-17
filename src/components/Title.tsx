@@ -1,7 +1,7 @@
 const Title = () => {
     return (
         <div>
-            <h1>Covid Tracker</h1>
+            <h1>勤怠表</h1>
         </div>
     );
 };
